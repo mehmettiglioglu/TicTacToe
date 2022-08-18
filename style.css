@@ -1,0 +1,23 @@
+.box-area{
+    width: 600px;
+    height: 600px;
+    border:1px solid black;
+    margin-top: 60px;
+    display:grid;
+    grid-template-columns:auto auto auto;
+}
+
+.boxes{
+  height: 150px;
+  width: 150px;
+  border: 1px solid red;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.box{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+    
